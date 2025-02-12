@@ -28,7 +28,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Focuses on data cleaning, visualization, and storytelling through data.
 - **Executive Summary**:
   ![Course 3 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%203%20executive%20summary/Activity%20_%20TikTok%20Course%203%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/3_EDA/Module%201-5/Activity_Course%203%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/3_EDA/Module%201-5/Activity_Course%203%20TikTok%20project%20lab.ipynb) , [Tableu Public Dashboard](https://public.tableau.com/app/profile/amit.km4193/viz/TikTokEndofCourseProject-Course3_17367839525500/Story1)
 
 ---
 
