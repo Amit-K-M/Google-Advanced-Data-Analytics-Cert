@@ -20,7 +20,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Introduces core Python concepts such as data types, functions, conditional statements, loops, and data structures.
 - **Executive Summary**:
   ![Course 2 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%202%20executive%20summary/Activity%20_%20TikTok%20Course%202%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](TikTok%20Project/2_Get%20Started%20with%20Python/Module%201-5/Activity_Course%202%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/2_Get%20Started%20with%20Python/Module%201-5/Activity_Course%202%20TikTok%20project%20lab.ipynb)
 
 ---
 
@@ -28,7 +28,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Focuses on data cleaning, visualization, and storytelling through data.
 - **Executive Summary**:
   ![Course 3 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%203%20executive%20summary/Activity%20_%20TikTok%20Course%203%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](TikTok%20Project/3_EDA/Module%201-5/Activity_Course%203%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/3_EDA/Module%201-5/Activity_Course%203%20TikTok%20project%20lab.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Covers descriptive and inferential statistics, probability distributions, sampling, confidence intervals, and hypothesis testing.
 - **Executive Summary**:
   ![Course 4 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%204%20executive%20summary/Activity%20_%20TikTok%20Course%204%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](TikTok%20Project/4-Power%20of%20statistics/TikTok%20Project%201-6/Activity_Course%204%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/4-Power%20of%20statistics/TikTok%20Project%201-6/Activity_Course%204%20TikTok%20project%20lab.ipynb)
 
 ---
 
@@ -44,7 +44,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Implements regression models (linear and logistic) to analyze variable relationships and predict outcomes.
 - **Executive Summary**:
   ![Course 5 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%205%20executive%20summary/Activity%20_%20TikTok%20Course%205%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](TikTok%20Project/5-Regression%20Modeling/Module%201-6%20(TikTok%20project)/Activity_Course%205%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/5-Regression%20Modeling/Module%201-6%20(TikTok%20project)/Activity_Course%205%20TikTok%20project%20lab.ipynb)
 
 ---
 
@@ -52,7 +52,7 @@ The project is divided into six sections, each corresponding to a major learning
 - Explores machine learning models including Naive Bayes, decision trees, random forests, AdaBoost, and XGBoost.
 - **Executive Summary**:
   ![Course 6 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity_%20TikTok%20Course%206%20executive%20summary/Activity_%20TikTok%20Course%206%20executive%20summary_1.jpg)
-- **Deliverables**: [Python Jupyter Notebook](TikTok%20Project/6-Nuts%20and%20bolts%20of%20Machine%20learning/Module%206-5%20(TikTok%20project)/Activity_Course%206%20TikTok%20project%20lab.ipynb)
+- **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/6-Nuts%20and%20bolts%20of%20Machine%20laerning/Module%206-5%20(TikTok%20project)/Activity_Course%206%20TikTok%20project%20lab.ipynb)
 
 ---
 
