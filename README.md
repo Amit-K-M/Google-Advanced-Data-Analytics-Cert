@@ -12,7 +12,7 @@ The project is divided into six sections, each corresponding to a major learning
 ## Sections Breakdown
 ### 1. Foundations of Data Science
 - Explores data science roles, communication strategies, and ethical considerations in data handling.
-- **Deliverables**: [Project Proposal](TikTok%20Project/1_Foundations%20of%20Data%20Science/Module%201-5/Activity_%20Project%20Proposal%20for%20TikTok.pdf)
+- **Deliverables**: [Project Proposal](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/1_Foundatiosn%20of%20Data%20Science/Module%201-5/Activity_%20Project%20Proposal%20for%20TikTok.pdf)
 
 ---
 
