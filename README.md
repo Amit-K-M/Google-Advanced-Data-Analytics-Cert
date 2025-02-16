@@ -11,13 +11,13 @@ The project is divided into six sections, each corresponding to a major learning
 
 ## Sections Breakdown
 ### 1. Foundations of Data Science
-- Explores data science roles, communication strategies, and ethical considerations in data handling.
+- Defines the scope of the project and defines the project within a PACE (Plan, Analyze, Comstruct, & Execute) framework.
 - **Deliverables**: [Project Proposal](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/1_Foundatiosn%20of%20Data%20Science/Module%201-5/Activity_%20Project%20Proposal%20for%20TikTok.pdf)
 
 ---
 
 ### 2. Get Started with Python
-- Introduces core Python concepts such as data types, functions, conditional statements, loops, and data structures.
+- Began understanding the data available for the project.
 - **Executive Summary**:
   ![Course 2 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%202%20executive%20summary/Activity%20_%20TikTok%20Course%202%20executive%20summary_1.jpg)
 - **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/2_Get%20Started%20with%20Python/Module%201-5/Activity_Course%202%20TikTok%20project%20lab.ipynb)
@@ -25,7 +25,7 @@ The project is divided into six sections, each corresponding to a major learning
 ---
 
 ### 3. Go Beyond the Numbers: Translate Data into Insights
-- Focuses on data cleaning, visualization, and storytelling through data.
+- Focuses on EDA ( Discovering, Structuring, Merging, Validating, Cleaning, & Presenting).
 - **Executive Summary**:
   ![Course 3 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%203%20executive%20summary/Activity%20_%20TikTok%20Course%203%20executive%20summary_1.jpg)
 - **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/3_EDA/Module%201-5/Activity_Course%203%20TikTok%20project%20lab.ipynb) , [Tableu Public Dashboard](https://public.tableau.com/app/profile/amit.km4193/viz/TikTokEndofCourseProject-Course3_17367839525500/Story1)
@@ -33,7 +33,7 @@ The project is divided into six sections, each corresponding to a major learning
 ---
 
 ### 4. The Power of Statistics
-- Covers descriptive and inferential statistics, probability distributions, sampling, confidence intervals, and hypothesis testing.
+- Apply descriptive and inferential statistics, specifically hypothesis testing.
 - **Executive Summary**:
   ![Course 4 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity%20_%20TikTok%20Course%204%20executive%20summary/Activity%20_%20TikTok%20Course%204%20executive%20summary_1.jpg)
 - **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/4-Power%20of%20statistics/TikTok%20Project%201-6/Activity_Course%204%20TikTok%20project%20lab.ipynb)
@@ -49,7 +49,7 @@ The project is divided into six sections, each corresponding to a major learning
 ---
 
 ### 6. The Nuts and Bolts of Machine Learning
-- Explores machine learning models including Naive Bayes, decision trees, random forests, AdaBoost, and XGBoost.
+- Explore  machine learning models including Naive Bayes, decision trees, random forests, AdaBoost, and XGBoost and applied them on the date in order to predict outcomes.
 - **Executive Summary**:
   ![Course 6 Executive Summary](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/Images/Activity_%20TikTok%20Course%206%20executive%20summary/Activity_%20TikTok%20Course%206%20executive%20summary_1.jpg)
 - **Deliverables**: [Python Jupyter Notebook](https://github.com/Amit-K-M/Google-Advanced-Data-Analytics-Cert/blob/main/TikTok%20Project/6-Nuts%20and%20bolts%20of%20Machine%20laerning/Module%206-5%20(TikTok%20project)/Activity_Course%206%20TikTok%20project%20lab.ipynb)
