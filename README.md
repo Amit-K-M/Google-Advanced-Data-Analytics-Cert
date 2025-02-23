@@ -66,6 +66,9 @@ The project is divided into six sections, each corresponding to a major learning
 - **Data Visualization**: `seaborn`, `matplotlib`
 - **Machine Learning**: `scikit-learn`
 
+### Visualization tools
+- Tableu 
+
 ### Machine Learning Models Used
 - **Regression**: Linear Regression, Logistic Regression
 - **Classification Models**: Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
